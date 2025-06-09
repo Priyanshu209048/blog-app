@@ -1,0 +1,8 @@
+body {
+    background: rgb(195, 199, 223)!important;
+}
+
+.page-item.active .page-link {
+    background-color: #121212 !important;
+    border-color: #121212;
+}
